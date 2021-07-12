@@ -1,8 +1,8 @@
 ### 👋 Hello there
 
 Meu nome é Richard Ditbenner, desenvolvedor web e mobile, movido a tecnologia, nerdices e café. 💻🤓☕️
-Sou graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Informática na Educação e estou cursando pós-graduação em Conectividade e Tecnologias da Informação.
 
+Sou graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Informática na Educação e estou cursando pós-graduação em Conectividade e Tecnologias da Informação.
 
 Conheça alguns projetos em https://richard.dev.br (site em construção 🚧)
 
