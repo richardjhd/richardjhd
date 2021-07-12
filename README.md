@@ -1,4 +1,4 @@
-### 👋 Hello there
+### 👋 Olá, mundo!
 
 Meu nome é **Richard Ditbenner**, desenvolvedor web e mobile, movido a tecnologia, nerdices e café. 💻🤓☕️
 
